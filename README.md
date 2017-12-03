@@ -1,7 +1,26 @@
 # ScientificComputing
-Second Year Python Module
 
-This is the Coursework file of the Scientific Computing module
+This is the Coursework File of the Second Year Scientific Computing Module.
+
+Module learning outcomes
+By the end of the course, a successful student should be able to: understand and apply numerical methods for the solution of simple physical and mathematical problems.
+
+Use a high-level programming language (Python) to write clear and structured scripts and functions to implement algorithms.
+
+Have gathered sufficient knowledge of different career paths for physics graduates that they can draw up their own plan to achieve employment success after graduation.
+
+Module Outline
+Revision of representation of numbers and basics of Python programming
+Application of numerical methods to model simple physical problems, involving:
+-Solution of algebraic equations
+-Interpolation
+-Numerical integration and differentiation
+-Numerical solution of ordinary differential equations
+-Numerical solution of linear systems of equations
+-Visualisation of data
+
+
+
 
 This Repository is purely for accessibility purposes, not for sharing and reproduction, I do not condone plagiarism of any types. I am not responsible for any coursework copied from this file.
 
