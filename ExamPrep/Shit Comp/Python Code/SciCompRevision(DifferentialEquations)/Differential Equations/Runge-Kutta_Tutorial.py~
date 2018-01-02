@@ -1,0 +1,27 @@
+#Imports
+import numpy as np
+from run_kut4 import *
+
+# Example: x''(t) + x(t) = 0
+
+#Constants
+StartValue = 0.0 #Starting value of t
+FinalValue = 10.0 # Final value of t
+InitialxValue = 1.0 #Starting x value
+InitialxPrimeValue = 0.0 #Starting x' value
+InitialConditions = [InitialxValue,InitialxPrimeValue] # Initial x and x' values.
+StepSize = 0.1
+
+#Defining the equation
+def function(t,y): 
+	f = np.zeros(2) # The function is an array of 2 zeros (empty).
+	f[0] = y[1] # The first term of the array is the first differential of x. y[0] = x (first term = full)
+	f[1] = -y[0] # The second term of the array is the second differential of x. y[1] = x' (second term = full)
+	return f # Returns the function of an array that contains the first differential of x and the second differential of x. f = [x'(t),x''(t)]
+
+#Integrating
+#Answer[0] = time values.
+#Answer[1] = x values.
+X,Y = integrate(function, StartValue, InitialConditions, FinalValue, StepSize)
+
+print Y

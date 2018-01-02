@@ -1,0 +1,27 @@
+Scientific Computing
+
+Thank you for the many positive comments and I am glad that many people enjoyed the module and learned something from it. There are some good points made in the student comments, as well as some that do not make much sense to me, I will go over the main ones below.
+
+- feedback on assignments definitely could have been better and we will work hard on ways to improve that for next year. This problem was partly due to the larger class sizes, as well as some lack of experience of some of the ATs - most of them this year have never done this module before and in many ways it is quite different from most other modules we teach.
+
+- 'longer workshops could have been useful': I quite agree, and shortening the workshops definitely was not my choice, it was a result of not having sufficient computing room capacity. Situation should be better once our School has some computing labs of our own (which are planned, and hopefully will happen next year). That said, the usage of the existing workshops has 
+been appalling - there were workshops this term where there were more ATs than students, and I explicitly allowed everyone to attend any workshop (plus the one help session that was done in a big computer room), so anyone that needed it could have had up to 5 hours of practical work per week. However, few people did take advantage of these opportunities.
+
+- 'more coding and debugging needs to be taught': In principle I agree with that, in today's world that is an important skill to have, helpful well beyond the narrower subject. However, programming skills should have been taught in the First year Python module. The Scientific Computing module is really about how to use Python (and more generally numerical algorithms) to
+solve science-related mathematical problems, rather than general programming skills. While I do a short (re-)introduction of Python at the beginning of the module, doing any more general programming here would leave less time 
+for what we should really be doing in this module, which is clearly not desirable.
+
+- while some people liked, or at least appreciated the point of the lectures, a number of people complained that they are 'useless' for a 'practical' course, which completely misses the point. The lectures do have a very important role in explaining what the algorithms used are, how they work, what their limitations are, how to figure out the precision of the solutions 
+obtained and what to do if something goes wrong (or how even to KNOW something has gone wrong). One would get none of this from just practical sessions, like some people seem to prefer. How would you know if your solution is correct? or reliable? Without this kind of understanding you will be just applying codes blindly, getting results (or sometimes not getting 
+results) which might or might not anything to do with the physical reality.
+
+- a few people asked for 'more examples in lectures': I do not understand this - every single solution method included an example on how to do this in practice, and many more examples were included in the recommended textbook. Just following these included examples and adapting them to the problem at hand is sufficient to do any straightforward problems (but see above points regarding the lectures if you are to properly understand the methods and algorithms, the reliability of the obtained solutions, their precision, etc.)
+
+- 'The code provided by the lecturer/book is of poor quality': this is a bit of a tricky point. The codes I provided are (mostly) coming from the recommended book and are meant to be an illustration of how the methods we studied can be coded in Python. Therefore I wanted to show the most straightforward, direct implementation of those methods that almost literally takes the basic algorithms and codes them in Python. This however does not make for a robust implementation. Reliable, state of the art codes (like the Python in-build methods) are far more complex and cannot really be used for pedagogical illustrations of the methods (and they are typically not even written in Python, but in C or Fortran, for speed and efficiency reasons).
+
+- 'Would have found it useful to also have detailed lecture notes.': there is a recommended book (and a number of other suggested books) for this purpose.
+
+- 'No or little real world applications given': Really? Every single problem I gave you was a clear application of these methods in Physics, or occasionally another practical area.
+
+- 'Surely getting the code to work demonstrates a thorough understanding of the methods and computational uses.': no, it doesn't. There are a lot of working codes which give wrong, or unreliable results. Thorough understanding requires a lot more than that, as discussed above regarding what the Scientific Computing lectures are providing.
+
