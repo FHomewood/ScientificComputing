@@ -1,0 +1,110 @@
+**LINALG BASICS**
+
+- maths about how matrices work
+
+**PYTHON INTRO**
+
+- how to install and start gedit and stuff
+- some basic commands
+- printing
+- basic calculations
+- signs for maths
+- importing
+- floats strings slicing
+- tuples
+- finding elements
+- more maths signs
+- loops/while loops/ else 
+- range() command
+- eval
+- raw input
+- just loads of shit basically dont even bother
+
+**INTRO_LINALG**
+
+- just random xkcd comics what the hell ilian
+
+**2-3 LINALG**
+
+- Ax = b
+- gauss elim
+- LU factorisation
+- tridiagonal matrices
+- inverse and determinant of a matrix 
+- gauss elim with pivoting/partial pivoting
+
+**4 INTERP**
+
+- polynomial interpolation
+- splines (linear + cubic)
+- least square fitting
+- lagrange interpolation polynomials
+- lagrange basis polynomials
+- scipy interpolate barycentric 
+- runge phenomenon 
+
+**5 ROOTS**
+
+- bisection method
+- secant method
+- ridder method
+- newton raphson method
+- scipy.optimize.fsolve =  general for nonlinear eqn
+- numpy.roots = zeros of polynomials
+
+**6 NUM DIFF**
+
+- differentiation and integration
+- numerical differentiation
+- finite difference approximation (taylor series thing) with errors
+- jacobian matrix?? wtf is that
+- central differences
+- forward and backward finite differences
+- richardson extrapolation
+- derivatives through interpolation
+- polynomial interpolation
+- some more spline stuff
+
+**7 INT**
+
+- numerical integration
+- degree of precision
+- midpoint rule
+- trapezoidal rule
+- simpsons rule
+- composite rules
+- romberg integration
+- quad integration
+
+**8 ODE**
+
+- euler method
+- runge kutta method
+
+**9 ODE STAB STIFF**
+
+- stability of ODEs
+- backwards euler method
+- stability of equilibrium
+- stiff equations
+- implicit methods: higher orders
+
+**10-11 FOURIER**
+
+- step function
+- making a function periodic
+- fourier transform
+- discrete fourier transform
+- FT in 2D and 3D
+- fast fourier transform (FFT)
+- DFT and RFFT adn IRFFT
+
+
+
+
+
+
+
+
+
+

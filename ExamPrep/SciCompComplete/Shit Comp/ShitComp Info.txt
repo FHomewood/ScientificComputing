@@ -1,0 +1,11 @@
+The ShitComp.zip file is a neat little way for students to take everything needed into the SciComp exam.
+I tried to find who made the file originally - it seemed to be made by "Alice" based off a file made by "Joe". These heros will never be known
+Good luck guys
+
+2018 Update - Nathaniel Curnick
+-Reorganised into cute folders
+-Fixed bugs in the Cheat Sheet
+-Updated the Cheat Sheet to include Fourier transforms
+-Included all of Illien's code examples
+-Removed crap like loads of fonts
+-Updated the module list
